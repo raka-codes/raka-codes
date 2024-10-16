@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @raka-codes
+- 👀 I’m interested in web development, especially with Next.js and React.
+- 🌱 I’m currently learning advanced JavaScript and UI/UX design.
+- 💞️ I’m looking to collaborate on open-source projects and creative web applications.
+- 📫 How to reach me: - 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love exploring new technologies and creating art with code!
